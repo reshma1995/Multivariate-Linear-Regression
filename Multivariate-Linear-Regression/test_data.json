@@ -1,0 +1,36 @@
+[{
+	"Quality" : "GOOD",
+        "R_RICE_IN_KG": 300,
+        "R_WATER_IN_LIT": 330,
+        "R_PRESSURE": 1,
+        "R_CHEMICAL_LITRE": 1
+},
+{
+	"Quality" : "GOOD",
+        "R_RICE_IN_KG": 200,
+        "R_WATER_IN_LIT": 230,
+        "R_PRESSURE": 2,
+        "R_CHEMICAL_LITRE": 2
+},
+{
+	"Quality" : "GOOD",
+        "R_RICE_IN_KG": 100,
+        "R_WATER_IN_LIT": 130,
+        "R_PRESSURE": 1,
+        "R_CHEMICAL_LITRE": 1
+},
+{
+	"Quality" : "AVERAGE",
+        "R_RICE_IN_KG": 3000,
+        "R_WATER_IN_LIT": 3030,
+        "R_PRESSURE": 1,
+        "R_CHEMICAL_LITRE": 1
+},
+{
+	"Quality" : "BAD",
+        "R_RICE_IN_KG": 30,
+        "R_WATER_IN_LIT": 30,
+        "R_PRESSURE": 6,
+        "R_CHEMICAL_LITRE": 6
+}
+]
